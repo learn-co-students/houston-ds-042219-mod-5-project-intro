@@ -118,7 +118,7 @@ Your blog post should clearly explain your process and results, including:
 - July 3rd: Project work day
 - July 4th: Off
 - July 5th: Project work day, aka **SUPER FUN DATA SCIENCE DAY**
-- July 8th: Presentations Monday Morning!
+- July 8th: Presentations Monday Morning! Post your blogs! Share them to linkedin! We are recording this presentation, apparently! 
 
 ### Groups:
 
