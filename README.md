@@ -113,10 +113,13 @@ Your blog post should clearly explain your process and results, including:
 
 ### The time line
 
-- From now through July 2nd: Find, create and prepare data set
+- From now through July 1st: Find, create and prepare data set
+- July 2rd: Project work day (Meet with instructor/coach by end of day to make sure your project is kosher i.e. data set is good and question is reasonable/intelligible.)
 - July 3rd: Project work day
 - July 4th: Off
 - July 5th: Project work day, aka **SUPER FUN DATA SCIENCE DAY**
-- July 8th: End of day presentation & science fair
+- July 8th: Presentations Monday Morning!
 
 ### Groups:
+
+- TBD! Form your own groups if you have similar project interests, or groups will be assigned by the morning of July 1st.
